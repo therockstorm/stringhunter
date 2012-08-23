@@ -1,0 +1,7 @@
+# String Hunter
+
+Hunts for string literals in code files and outputs them for spelling/grammatical review.
+
+## Usage
+
+python stringHunter.py <root_directory_to_begin_hunting>
