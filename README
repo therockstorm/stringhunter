@@ -1,4 +1,4 @@
-Converted John D. Cook's PowerShell script to Python.
+Ported John D. Cook's PowerShell script to Python.
 http://www.johndcook.com/blog/2012/08/22/hunt-down-bad-error-messages/
 
 # String Hunter
